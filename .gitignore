@@ -12,11 +12,12 @@ doc/*
 /qjs32
 /qjs32_s
 /qjsc
-/qjsc32
 /qjsbn
 /qjsbn32
 /qjsbnc
-/qjsbnc32
+/qjscalc
+/run-test262
+/run-test262-bn
 
 # Allow source files
 !/*.c
