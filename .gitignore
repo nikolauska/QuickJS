@@ -1,0 +1,28 @@
+# Docs
+doc/*
+!doc/*.texi
+
+# Build files
+/*.a
+/*.so
+/.obj
+
+# Executables
+/qjs
+/qjs32
+/qjs32_s
+/qjsc
+/qjsc32
+/qjsbn
+/qjsbn32
+/qjsbnc
+/qjsbnc32
+
+# Allow source files
+!/*.c
+!/*.h
+
+# Allow only source files in examples
+/examples/*
+!/examples/*.c
+!/examples/*.js
