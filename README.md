@@ -2,6 +2,9 @@
 
 ## News
 
+* 2019-07-21:
+  * New release
+  * Updated [benchmark](https://bellard.org/quickjs/bench.html) with more Javascript engines
 * 2019-07-09:
   * First public release
 
