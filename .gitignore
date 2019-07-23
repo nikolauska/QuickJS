@@ -27,3 +27,6 @@ doc/*
 /examples/*
 !/examples/*.c
 !/examples/*.js
+
+# From QuickJS release
+readme.txt

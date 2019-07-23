@@ -33,6 +33,7 @@ int main(int argc, char **argv)
   rt = JS_NewRuntime();
   ctx = JS_NewContextRaw(rt);
   JS_AddIntrinsicBaseObjects(ctx);
+  JS_AddIntrinsicDate(ctx);
   JS_AddIntrinsicEval(ctx);
   JS_AddIntrinsicStringNormalize(ctx);
   JS_AddIntrinsicRegExp(ctx);
