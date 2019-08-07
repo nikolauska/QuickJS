@@ -2,6 +2,8 @@
 
 ## News
 
+* 2019-07-28:
+  * New release with nearly complete ES2020 support
 * 2019-07-21:
   * New release
   * Updated [benchmark](https://bellard.org/quickjs/bench.html) with more Javascript engines
